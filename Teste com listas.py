@@ -11,4 +11,4 @@ if num2 in lista:
   print('Número encontrado: {}'.format(num2))
 else:
     print('Não encontrado')
-print('A lista é: ', lista)
+print('A lista é: {}'.format(lista)
